@@ -1,0 +1,8 @@
+
+Expresion: + 2 3
+Result: 5
+Report: INFO-1, ERROR-0
+
+Expression: $ 5 3
+ERROR: Invalide expression
+Report: INFO-1, ERROR-1
